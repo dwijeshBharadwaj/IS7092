@@ -21,4 +21,10 @@ This project aims to leverage Large Language Models (LLMs) to extract sentiments
 - **Method:** Sentiment scores, intensity scores, emotions, and AI emphasis were extracted using Groq's LPU and logistic regression models were applied.
 - **Tools Used:** Python, Statsmodels, Scikit-learn, Groq's API.
 
+### Phase 4: Data Analysis
+- **Objective:** To analyze the extracted features (sentiment scores, intensity scores, emotions, and AI emphasis) and their relationship with daily stock returns.
+- **Method:** Logistic regression models were used to determine the predictive power of each feature on daily stock returns.
+- **Results:** Comprehensive analysis of each feature's impact on predicting daily returns.
+
+
 
